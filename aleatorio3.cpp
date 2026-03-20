@@ -29,6 +29,5 @@ int main(){
     }
 
     archivo.close();
-
     return 0;
 }

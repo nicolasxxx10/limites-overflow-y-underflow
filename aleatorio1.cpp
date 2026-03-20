@@ -43,7 +43,7 @@ int main() {
     cout << semilla << endl; // imprime la semilla
 
     do {
-        r = (a * r + c) % m; // genera siguiente número
+        r = (a * r + c) % m; // genera siguiente numero
         contador++; // contamos este nuevo valor
 
         cout << r << endl; // lo imprimimos
